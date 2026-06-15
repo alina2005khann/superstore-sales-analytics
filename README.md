@@ -4,9 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/alinakhan05)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/alina2005khann)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![Python](https://img.shields.io/badge/Python-EDA-green)
+[![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)](superstore_dashboard.pbix)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-orange)](superstore_sales.sql)
+[![Python](https://img.shields.io/badge/Python-EDA-green)](superstore_analysis.ipynb)
 
 ---
 
